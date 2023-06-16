@@ -1,0 +1,22 @@
+body{
+              background-color: mediumaquamarine;
+}
+
+pre{
+              font-size: x-large;
+              color:rebeccapurple;
+              font-weight: 20px;
+}
+
+.main{
+              color: brown;
+              background-color: blanchedalmond;
+              height: 70px;
+              text-align: center;
+              padding-top: 20px;
+              font-size: 60px;
+}
+ p{
+              color: red;
+              font-size: 20px;
+ }
